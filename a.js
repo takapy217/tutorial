@@ -1,3 +1,3 @@
 console.log('AA');
-console.log('R');
+console.log('Resetの練習');
 
