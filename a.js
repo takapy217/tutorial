@@ -1,3 +1,3 @@
 console.log('AA');
-console.log('Resetの練習');
+console.log('feature-A ブランチで追加');
 
